@@ -1,0 +1,114 @@
+{
+    "initalState": {
+      "mylist": [],
+      "trends": [
+        {
+          "id": 2,
+          "slug": "tvshow-2",
+          "title": "Sonic",
+          "type": "Scripted",
+          "language": "English",
+          "year": 2019,
+          "contentRating": "12+",
+          "duration": 164,
+          "cover": "https://img.ecartelera.com/noticias/fotos/51000/51024/1.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 3,
+          "slug": "tvshow-3",
+          "title": "Bad Boys For Life",
+          "type": "Adventure",
+          "language": "English",
+          "year": 2020,
+          "contentRating": "16+",
+          "duration": 137,
+          "cover": "https://www.ecartelera.com/carteles/10300/10300/002.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 4,
+          "slug": "tvshow-4",
+          "title": "Mulan",
+          "type": "Comedy",
+          "language": "English",
+          "year": 2020,
+          "contentRating": "16+",
+          "duration": 163,
+          "cover": "https://www.ecartelera.com/carteles/12500/12526/002.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 5,
+          "slug": "tvshow-5",
+          "title": "Enola Holmes",
+          "type": "Scripted",
+          "language": "English",
+          "year": 2020,
+          "contentRating": "16+",
+          "duration": 194,
+          "cover": "https://www.ecartelera.com/carteles/16400/16435/001.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 6,
+          "slug": "tvshow-6",
+          "title": "The Gentlemen",
+          "type": "",
+          "language": "English",
+          "year": 2020,
+          "contentRating": "16+",
+          "duration": 124,
+          "cover": "https://www.ecartelera.com/carteles/15800/15878/002.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 7,
+          "slug": "tvshow-7",
+          "title": "Aves de Presa",
+          "type": "Drama",
+          "language": "English",
+          "year": 2020,
+          "contentRating": "16+",
+          "duration": 179,
+          "cover": "https://www.ecartelera.com/carteles/14100/14132/002.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 8,
+          "slug": "tvshow-8",
+          "title": "Tyler Rake",
+          "type": "Action",
+          "language": "English",
+          "year": 2020,
+          "contentRating": "16+",
+          "duration": 148,
+          "cover": "https://www.ecartelera.com/carteles/15300/15374/001.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        },
+        {
+          "id": 9,
+          "slug": "tvshow-9",
+          "title": "Bloodshot",
+          "type": "Action",
+          "language": "English",
+          "year": 2020,
+          "contentRating": "16+",
+          "duration": 128,
+          "cover": "https://www.ecartelera.com/carteles/15400/15401/002.jpg",
+          "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+          "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+        }
+      ]
+      
+        }
+      
+    
+  }
